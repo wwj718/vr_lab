@@ -9,3 +9,6 @@
     *  [scratch](https://create.codelab.club/projects/editor/)
 *  vr_lab
     *  [list](https://wwj-macbook.local:8443/)
+    *  super-hands
+        * [examples](https://wmurphyrd.github.io/aframe-super-hands-component/examples/)
+        * [physics](https://wmurphyrd.github.io/aframe-super-hands-component/examples/physics/)
